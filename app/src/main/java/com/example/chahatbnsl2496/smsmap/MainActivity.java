@@ -21,9 +21,8 @@ import butterknife.OnClick;
 public class MainActivity extends AppCompatActivity {
 
     Button mbtn;
-
-
-    //palash
+    //Anushka
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
